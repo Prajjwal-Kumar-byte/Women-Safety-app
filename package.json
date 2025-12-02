@@ -23,7 +23,7 @@
   "dependencies": {
     "@mediapipe/tasks-audio": "^0.10.22-rc.20250304",
     "dotenv": "^17.2.1",
-    "express": "^5.1.0",
+    "express": "^5.2.0",
     "zod": "^3.25.76"
   },
   "devDependencies": {
